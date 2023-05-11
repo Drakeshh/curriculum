@@ -1,8 +1,8 @@
 {
   "main": {
-    "name": "John Doe",
-    "occupation": "Computer engineer",
-    "description": "This is the description",
+    "name": "Sergi Prat",
+    "occupation": "System Administrator",
+    "description": "Welcome to my resume",
     "image": "profile.png",
     "bio": "Set up your description",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
