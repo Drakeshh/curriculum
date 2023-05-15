@@ -6,46 +6,30 @@
     "image": "profile.png",
     "bio": "Set up your description",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "john@doe.com",
-    "phone": "999 999 999",
+    "email": "sprat0088@gmail.com",
     "address": {
       "street": "My street",
-      "city": "My city",
-      "state": "My state",
-      "zip": "99999"
+      "city": "Olot,
+      "state": "Spain",
+      "zip": "17800"
     },
-    "website": "http://my.website.com",
+    "website": "https://master.d303lix09ks16j.amplifyapp.com/",
     "resumedownload": "http://my.resume.pdf.com",
     "social": [
       {
         "name": "linkedin",
-        "url": "#",
+        "url": "https://es.linkedin.com/in/sergi-prat-merin-b96731213",
         "className": "fa fa-linkedin"
       },
       {
         "name": "github",
-        "url": "#",
+        "url": "https://github.com/Drakeshh",
         "className": "fa fa-github"
       },
       {
         "name": "Stack Overflow",
         "url": "#",
         "className": "fa fa-stack-overflow"
-      },
-      {
-        "name": "facebook",
-        "url": "#",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "#",
-        "className": "fa fa-twitter"
-      },
-      {
-        "name": "instagram",
-        "url": "#",
-        "className": "fa fa-instagram"
       }
     ]
   },
