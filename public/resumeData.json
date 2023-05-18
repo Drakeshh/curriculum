@@ -4,12 +4,11 @@
     "occupation": "System Administrator",
     "description": "Welcome to my resume",
     "image": "profile.png",
-    "bio": "Set up your description",
+    "bio": "I am a system administrator specialized in virtualization with the vSphere platform, Office 365, Veeam Backup, Active Directory and networking. I consider myself an orderly and perfectionist person, I am good at organizing work groups and taking responsibilities, I have initiative.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "sprat0088@gmail.com",
     "address": {
-      "street": "My street",
-      "city": "Olot,
+      "city": "Olot,",
       "state": "Spain",
       "zip": "17800"
     },
@@ -25,11 +24,6 @@
         "name": "github",
         "url": "https://github.com/Drakeshh",
         "className": "fa fa-github"
-      },
-      {
-        "name": "Stack Overflow",
-        "url": "#",
-        "className": "fa fa-stack-overflow"
       }
     ]
   },
@@ -38,54 +32,80 @@
     "scoresmessage": "Check my degree scores!",
     "education": [
       {
-        "school": "Lorem ipsum",
-        "degree": "Higher Polytechnic School",
-        "graduated": "2015 - 2020",
-        "description": "Studies description"
+        "school": "Institut Montilivi",
+        "degree": "Cybersecurity Specialitzation",
+        "graduated": "2022 - 2023",
+        "description": "Development and implementation of security countermeasures, Python and Bash scripting, Offensive Pentesting, Dockerization..."
       },
       {
-        "school": "Lorem ipsum",
-        "degree": "Vocational Institute",
-        "graduated": "2013 - 2015",
-        "description": "Studies description"
+        "school": "Institut Bosc de la Coma",
+        "degree": "HNC - Network System Administration",
+        "graduated": "2020 - 2022",
+        "description": "Administer and maintain computer systems, guaranteeing the functionality, the integrity of the system's resources and services, with the required quality and complying with current regulations."
       },
       {
-        "school": "Lorem ipsum",
-        "degree": "Online Study Center",
-        "graduated": "6 weeks in 2014",
-        "description": "Studies description"
+        "school": "Institut Bosc de la Coma",
+        "degree": "VET - Microcomputer Systems and Networks",
+        "graduated": "2018 - 2020",
+        "description": "Install and maintain fixed and mobile network services, Internet services and computer systems and also provide support to users"
       }
     ],
     "work": [
       {
-        "company": "Lorem ipsum",
-        "title": "Full stack develooper",
-        "years": "September 2021 - Actually",
-        "description": "Job description"
+        "company": "EMBUTIDOS CASEROS COLLELL SL",
+        "title": "System administrator",
+        "years": "June 2021 - Actually",
+        "description": "Manage and maintain the integrity, scalability and availability of the company's computer system both at a physical level and at a cloud level. This includes networking (Cisco, Mikrotik, Aruba, NetGEAR, Synology, QNAP...), virtualization (vSphere), backups (Veeam Backup), Exchange Online and Onedrive/Sharepoint (Office 365)."
       },
       {
-        "company": "Lorem ipsum",
-        "title": "Full-Stack developer",
-        "years": "December 2020 - Actually",
-        "description": "Job description"
+        "company": "EMBUTIDOS CASEROS COLLELL SL",
+        "title": "IT Technician",
+        "years": "June 2020 - August 2020",
+        "description": "Helpdesk Level 1"
+      },
+      {
+        "company": "Fundació Hospital d'Olot i Comarcal de la Garrotxa",
+        "title": "IT Technician",
+        "years": "December 2019 - March 2019",
+        "description": "Helpdesk Level 1"
       }
     ],
     "skills": [
       {
-        "name": "Javascript",
+        "name": "vSphere virtualization",
         "level": "95%"
+      },
+      {
+        "name": "Office 365",
+        "level": "90%"
+      },
+      {
+        "name": "Veeam Backup",
+        "level": "90%"
       },
       {
         "name": "Docker",
         "level": "90%"
       },
       {
-        "name": "Java",
-        "level": "90%"
+        "name": "Linux Administration",
+        "level": "80%"
       },
       {
-        "name": "BASH",
-        "level": "90%"
+        "name": "Networking",
+        "level": "80%"
+      },
+      {
+        "name": "Bash",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "Bash",
+        "level": "80%"
       },
       {
         "name": "Python",
@@ -109,30 +129,6 @@
         "name": "COMPUTER STRUCTURE AND TECHNOLOGY",
         "level": "61%",
         "annotation": ""
-      }
-    ]
-  },
-  "portfolio": {
-    "projects": [
-      {
-        "title": "Project name",
-        "category": "Lorem ipsum",
-        "image": "p1.png",
-        "url": "#"
-      },
-      {
-        "title": "Project name",
-        "category": "Lorem ipsum",
-        "image": "p2.png",
-        "url": "#"
-      }
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "Put your testimonial here!",
-        "user": "Who said that from you??"
       }
     ]
   }
