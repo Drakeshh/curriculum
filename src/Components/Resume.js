@@ -98,35 +98,6 @@ class Resume extends Component {
         
       </div>
     </div>
-
-    <div className="row skill">
-
-        <div className="three columns header-col">
-          <h1><span>Degree Scores</span></h1>
-        </div>
-
-        <div className="nine columns main-col">
-
-          <p>{scoresmessage}</p>
-          <p>
-            <i className="fa fa-star fa-flip-vertical" style={
-                {
-                        color:"yellow",
-                        fontSize: "2.5em"
-                }
-              } aria-hidden="true"></i> 
-            <em> stands for With Honors</em>
-
-          </p>
-          <div className="bars">
-              <ul className="skills">
-                {scores}
-              </ul>
-          </div>
-
-      
-        </div>
-    </div>
    </section>
     );
   }
