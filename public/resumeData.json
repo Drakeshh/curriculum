@@ -8,7 +8,7 @@
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "sprat0088@gmail.com",
     "address": {
-      "city": "Olot,",
+      "city": "Olot",
       "state": "Spain",
       "zip": "17800"
     },
@@ -41,7 +41,7 @@
         "school": "Institut Bosc de la Coma",
         "degree": "HNC - Network System Administration",
         "graduated": "2020 - 2022",
-        "description": "Administer and maintain computer systems, guaranteeing the functionality, the integrity of the system's resources and services, with the required quality and complying with current regulations."
+        "description": "Administer and maintain computer systems, guaranteeing the functionality & the integrity of the system's resources and services, with the required quality and complying the current regulations."
       },
       {
         "school": "Institut Bosc de la Coma",
@@ -52,13 +52,13 @@
     ],
     "work": [
       {
-        "company": "EMBUTIDOS CASEROS COLLELL SL",
+        "company": "Embutidos Caseros Collell SL",
         "title": "System administrator",
         "years": "June 2021 - Actually",
         "description": "Manage and maintain the integrity, scalability and availability of the company's computer system both at a physical level and at a cloud level. This includes networking (Cisco, Mikrotik, Aruba, NetGEAR, Synology, QNAP...), virtualization (vSphere), backups (Veeam Backup), Exchange Online and Onedrive/Sharepoint (Office 365)."
       },
       {
-        "company": "EMBUTIDOS CASEROS COLLELL SL",
+        "company": "Embutidos Caseros Collell SL",
         "title": "IT Technician",
         "years": "June 2020 - August 2020",
         "description": "Helpdesk Level 1"
@@ -68,48 +68,56 @@
         "title": "IT Technician",
         "years": "December 2019 - March 2019",
         "description": "Helpdesk Level 1"
+      },
+      {
+        "company": "Embutidos Caseros Collell SL",
+        "title": "Factory Laborer",
+        "years": "June 2019 - August 2019",
+        "description": "Laborer in a Food Factory"
+      },
+      {
+        "company": "Embutidos Caseros Collell SL",
+        "title": "Factory Laborer",
+        "years": "June 2018 - August 2018",
+        "description": "Laborer in a Food Factory"
       }
     ],
     "skills": [
       {
         "name": "vSphere virtualization",
-        "level": "95%"
+        "level": "55%"
       },
       {
         "name": "Office 365",
-        "level": "90%"
+        "level": "65%"
       },
       {
         "name": "Veeam Backup",
-        "level": "90%"
-      },
-      {
-        "name": "Docker",
-        "level": "90%"
+        "level": "50%"
       },
       {
         "name": "Linux Administration",
-        "level": "80%"
+        "level": "55%"
       },
       {
         "name": "Networking",
-        "level": "80%"
+        "level": "45%"
       },
       {
-        "name": "Bash",
-        "level": "80%"
+        "name": "HTML5",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "65%"
+      },
+      {
+        "name": "Active Directory",
+        "level": "75%"
       },
       {
         "name": "Python",
-        "level": "80%"
-      },
-      {
-        "name": "Bash",
-        "level": "80%"
-      },
-      {
-        "name": "Python",
-        "level": "80%"
+        "level": "10%"
       }
     ],
     "scores": [
@@ -129,6 +137,14 @@
         "name": "COMPUTER STRUCTURE AND TECHNOLOGY",
         "level": "61%",
         "annotation": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Put your testimonial here!",
+        "user": "Laura Julià - Director of Information Systems at Embutidos Collell S.L"
       }
     ]
   }
