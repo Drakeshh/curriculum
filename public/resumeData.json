@@ -55,7 +55,7 @@
         "company": "Embutidos Caseros Collell SL",
         "title": "System administrator",
         "years": "June 2021 - Actually",
-        "description": "Manage and maintain the integrity, scalability and availability of the company's computer system both at a physical level and at a cloud level. This includes networking (Cisco, Mikrotik, Aruba, NetGEAR, Synology, QNAP...), virtualization (vSphere), backups (Veeam Backup), Exchange Online and Onedrive/Sharepoint (Office 365)."
+        "description": "Manage and maintain the integrity, scalability and availability of the company's computer system both at a physical and cloud level. This includes handling tasks related to networking, virtualization (vSphere), backups (Veeam Backup), Microsoft 365 and documentation (Dokuwiki)."
       },
       {
         "company": "Embutidos Caseros Collell SL",
@@ -66,7 +66,7 @@
       {
         "company": "Fundació Hospital d'Olot i Comarcal de la Garrotxa",
         "title": "IT Technician",
-        "years": "December 2019 - March 2019",
+        "years": "December 2019 - March 2020",
         "description": "Helpdesk Level 1"
       },
       {
@@ -89,7 +89,7 @@
       },
       {
         "name": "Office 365",
-        "level": "65%"
+        "level": "60%"
       },
       {
         "name": "Veeam Backup",
@@ -105,15 +105,15 @@
       },
       {
         "name": "HTML5",
-        "level": "70%"
+        "level": "68%"
       },
       {
         "name": "CSS",
-        "level": "65%"
+        "level": "62%"
       },
       {
         "name": "Active Directory",
-        "level": "75%"
+        "level": "77%"
       },
       {
         "name": "Python",
