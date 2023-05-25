@@ -1,9 +1,11 @@
-Executar web per visualitzar:
+Arrancar npm en local per visualitzar web:
 npm start
 
+Per parar: 
+npm stop o ctrl+c al terminal
 
-- Exemple amb l'arxiu resumeData.json, ho podriem fer amb la folder entera
 
-Fem un cp del arxiu resumeData.json cap al escriptori. Seguidament executem la següent comanda per copiar l'arxiu al bucket:
+
+Si hem fet canvis al resumeData.json podem fer un cp de l'arxiu cap al bucket:
 
 aws s3 cp resumeData.json s3://sprat-curriculum/resumeData.json
