@@ -140,6 +140,16 @@
       }
     ]
   },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "La Nina de Drap",
+        "category": "Kindergarten website",
+        "image": "portadalanina.png",
+        "url": "https://laninadedrap.cat"
+      }
+    ]
+  },
   "testimonials": {
     "testimonials": [
       {
