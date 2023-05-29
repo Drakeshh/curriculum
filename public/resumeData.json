@@ -88,7 +88,7 @@
         "level": "55%"
       },
       {
-        "name": "Office 365",
+        "name": "Microsoft 365",
         "level": "60%"
       },
       {
@@ -113,7 +113,11 @@
       },
       {
         "name": "Active Directory",
-        "level": "77%"
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "25%"
       },
       {
         "name": "Python",
@@ -153,8 +157,8 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Put your testimonial here!",
-        "user": "Laura Julià - Director of Information Systems at Embutidos Collell S.L"
+        "text": "",
+        "user": ""
       }
     ]
   }
