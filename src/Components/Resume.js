@@ -89,6 +89,16 @@ class Resume extends Component {
       <div className="nine columns main-col">
 
         <p>{skillmessage}</p>
+        <p>
+            <i className="fa fa-star fa-flip-vertical" style={
+                {
+                        color:"yellow",
+                        fontSize: "2.5em"
+                }
+              } aria-hidden="true"></i> 
+            <em>Certified</em>
+
+          </p>
         <div className="bars">
             <ul className="skills">
             {skills}
