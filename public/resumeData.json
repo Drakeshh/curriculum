@@ -84,8 +84,15 @@
     ],
     "skills": [
       {
-        "name": "vSphere Virtualization",
+        "name": "vSphere Virtualization", 
         "level": "80%"
+      }
+    ],
+    "scores": [
+      {
+        "name": "vSphere Virtualization", 
+        "level": "80%",
+        "annotation": "With Honors"
       },
       {
         "name": "Microsoft 365",
@@ -122,25 +129,6 @@
       {
         "name": "Zabbix",
         "level": "40%"
-      }
-    ],
-    "scores": [
-      { "name": "ALGEBRA", "level": "75%", "annotation": "" },
-      { "name": "CALCULATION", "level": "57%", "annotation": "" },
-      {
-        "name": "DISCRETE LOGIC AND MATHEMATICS",
-        "level": "75%",
-        "annotation": ""
-      },
-      {
-        "name": "PROGRAMMING METHODOLOGY AND TECHNOLOGY I",
-        "level": "77%",
-        "annotation": ""
-      },
-      {
-        "name": "COMPUTER STRUCTURE AND TECHNOLOGY",
-        "level": "61%",
-        "annotation": ""
       }
     ]
   },
