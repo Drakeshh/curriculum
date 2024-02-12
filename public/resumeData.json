@@ -4,7 +4,7 @@
     "occupation": "System Administrator",
     "description": "Welcome to my resume",
     "image": "profile.png",
-    "bio": "I am a system administrator specialized in virtualization with the vSphere platform, Office 365, Veeam Backup, Active Directory and networking. I consider myself an orderly and perfectionist person, I am good at organizing work groups and taking responsibilities.",
+    "bio": "I am a system administrator specialized in virtualization with the vSphere platform, Office 365, Active Directory, Veeam Backup, Zabbix and networking. I consider myself an orderly and perfectionist person, I am good at organizing work groups and taking responsibilities.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "sprat0088@gmail.com",
     "address": {
@@ -35,17 +35,17 @@
         "school": "Institut Montilivi",
         "degree": "Cybersecurity Specialitzation",
         "graduated": "2022 - 2023",
-        "description": "Development and implementation of security countermeasures, Python and Bash scripting, Offensive Pentesting, Ethical Hacking, Dockerization, Legislation & ISO 27001..."
+        "description": "Development and implementation of security countermeasures, Python and Bash scripting, Offensive Pentesting, Ethical Hacking, Dockerization, legislation & ISO 27001..."
       },
       {
         "school": "Institut Bosc de la Coma",
-        "degree": "HNC - Network System Administration",
+        "degree": "CFGS - Network System Administration",
         "graduated": "2020 - 2022",
         "description": "Administer and maintain computer systems, guaranteeing the functionality & the integrity of the system's resources and services, with the required quality and complying the current regulations."
       },
       {
         "school": "Institut Bosc de la Coma",
-        "degree": "VET - Microcomputer Systems and Networks",
+        "degree": "CFGM - Microcomputer Systems and Networks",
         "graduated": "2018 - 2020",
         "description": "Install and maintain fixed and mobile network services, Internet services and computer systems and also provide support to users"
       }
@@ -55,7 +55,7 @@
         "company": "Costa Brava Mediterranean Foods",
         "title": "System administrator",
         "years": "June 2021 - Actually",
-        "description": "Manage and maintain the integrity, scalability and availability of the company's computer system both at a physical and cloud level. This includes handling tasks related to networking, virtualization (vSphere), backups (Veeam Backup), Microsoft 365 and documentation (Dokuwiki)."
+        "description": "Manage and maintain the integrity, scalability and availability of the company's computer system both at a physical and cloud level. This includes handling tasks related to: networking, virtualization (vSphere), Active Directory, Microsoft 365, backups (Veeam Backup), Zabbix and documentation."
       },
       {
         "company": "Embutidos Caseros Collell SL",
@@ -84,12 +84,12 @@
     ],
     "skills": [
       {
-        "name": "vSphere virtualization",
-        "level": "65%"
+        "name": "vSphere Virtualization",
+        "level": "80%"
       },
       {
-        "name": "Office 365",
-        "level": "60%"
+        "name": "Microsoft 365",
+        "level": "65%"
       },
       {
         "name": "Veeam Backup",
@@ -97,27 +97,31 @@
       },
       {
         "name": "Linux Administration",
-        "level": "55%"
+        "level": "60%"
       },
       {
         "name": "Networking",
-        "level": "50%"
+        "level": "55%"
       },
       {
         "name": "HTML5",
-        "level": "65%"
-      },
-      {
-        "name": "CSS",
         "level": "50%"
       },
       {
-        "name": "Active Directory",
-        "level": "77%"
+        "name": "CSS",
+        "level": "30%"
       },
       {
-        "name": "Python",
-        "level": "10%"
+        "name": "Active Directory",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "30%"
+      },
+      {
+        "name": "Zabbix",
+        "level": "40%"
       }
     ],
     "scores": [
@@ -148,13 +152,19 @@
         "image": "portadalanina.png",
         "url": "https://laninadedrap.cat"
       }
+      {
+        "title": "Isla de Calvos",
+        "category": "Game server",
+        "image": "isladecalvos.png",
+        "url": "https://discord.gg/bPTuSt6sUj"
+      }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Put your testimonial here!",
-        "user": "Laura Julià - Director of Information Systems at Embutidos Collell S.L"
+        "text": "",
+        "user": ""
       }
     ]
   }
