@@ -77,37 +77,34 @@ class Resume extends Component {
           {work}
         </div>
     </div>
-
-
-
     <div className="row skill">
 
-      <div className="three columns header-col">
-        <h1><span>Skills</span></h1>
-      </div>
+<div className="three columns header-col">
+  <h1><span>Skills</span></h1>
+</div>
 
-      <div className="nine columns main-col">
+<div className="nine columns main-col">
 
-        <p>{skillmessage}</p>
-        <p>
-            <i className="fa fa-star fa-flip-vertical" style={
-                {
-                        color:"yellow",
-                        fontSize: "2.5em"
-                }
-              } aria-hidden="true"></i> 
-            <em>Certified</em>
+  <p>Check my skills!</p>
+  <p>
+    <i className="fa fa-star fa-flip-vertical" style={
+        {
+                color:"yellow",
+                fontSize: "2.5em"
+        }
+      } aria-hidden="true"></i> 
+    <em> Certified</em>
 
-          </p>
-        <div className="bars">
-            <ul className="skills">
-            {skills}
-          </ul>
-        </div>
+  </p>
+  <div className="bars">
+      <ul className="skills">
+        {scores}
+      </ul>
+  </div>
 
-        
-      </div>
-    </div>
+
+</div>
+</div>
    </section>
     );
   }
