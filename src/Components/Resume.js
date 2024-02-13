@@ -35,7 +35,7 @@ class Resume extends Component {
       return <li key={score.name} style={{position: "relative"}}>
                 <span style={{width:score.level}} className={className}></span>
                 <em>
-                  {score.name + " - " + score.level}
+                  {score.name}
                 </em>
                 {score.annotation && <i className="fa fa-star fa-flip-vertical" style={{
                     color:"yellow",
