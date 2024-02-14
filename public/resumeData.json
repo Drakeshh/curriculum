@@ -4,7 +4,7 @@
     "occupation": "System Administrator",
     "description": "Welcome to my resume",
     "image": "profile.png",
-    "bio": "I am a system administrator specialized in virtualization with the vSphere platform, Office 365, Active Directory, Veeam Backup, Zabbix and networking. I consider myself an orderly and perfectionist person, I am good at organizing work groups and taking responsibilities.",
+    "bio": "I am a system administrator specialized in virtualization with the vSphere platform, Office 365, Active Directory, Veeam Backup and Zabbix. I consider myself an orderly and perfectionist person, I am good at organizing work groups and taking responsibilities.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "sprat0088@gmail.com",
     "address": {
@@ -85,13 +85,13 @@
     "skills": [
       {
         "name": "vSphere Virtualization", 
-        "level": "80%"
+        "level": "85%"
       }
     ],
     "scores": [
       {
         "name": "vSphere Virtualization", 
-        "level": "80%",
+        "level": "85%",
         "annotation": "With Honors"
       },
       {
