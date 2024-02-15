@@ -8,6 +8,7 @@ import About from "./Components/About";
 import Resume from "./Components/Resume";
 import Testimonials from "./Components/Testimonials";
 import Portfolio from "./Components/Portfolio";
+import Certifications from "./Components/Certifications";
 import axios from 'axios'
 
 class App extends Component {
@@ -38,6 +39,8 @@ class App extends Component {
         <Resume data={this.state.resumeData.resume} />
         <Testimonials data={this.state.resumeData.testimonials} />
         <Portfolio data={this.state.resumeData.portfolio} />
+        <Testimonials data={this.state.resumeData.testimonials} />
+        <Certifications data={this.state.resumeData.certifications} />
         <Footer data={this.state.resumeData.main} />
       </div>
     );
