@@ -55,7 +55,7 @@
         "company": "Costa Brava Mediterranean Foods",
         "title": "System administrator",
         "years": "June 2021 - Actually",
-        "description": "Manage and maintain the integrity, scalability and availability of the company's computer system both at a physical and cloud level. This includes handling tasks related to: networking, virtualization (vSphere), Active Directory, Microsoft 365, backups (Veeam Backup), Zabbix and documentation."
+        "description": "Manage and maintain the integrity, scalability and availability of the company's computer system both at a physical and cloud level. This includes handling tasks related to: networking, virtualization (vSphere), Active Directory, Microsoft 365, backup management (Veeam Backup), Zabbix and documentation."
       },
       {
         "company": "Embutidos Caseros Collell SL",
@@ -73,13 +73,13 @@
         "company": "Embutidos Caseros Collell SL",
         "title": "Factory Laborer",
         "years": "June 2019 - August 2019",
-        "description": "Laborer in a Food Factory"
+        "description": "Laborer in a Food Factory. Prepare orders for shipment, product handling and labeling."
       },
       {
         "company": "Embutidos Caseros Collell SL",
         "title": "Factory Laborer",
         "years": "June 2018 - August 2018",
-        "description": "Laborer in a Food Factory"
+        "description": "Laborer in a Food Factory. Prepare orders for shipment, product handling and labeling."
       }
     ],
     "skills": [
@@ -91,20 +91,24 @@
     "scores": [
       {
         "name": "vSphere Virtualization", 
-        "level": "85%",
+        "level": "82%",
         "annotation": "With Honors"
       },
       {
         "name": "Microsoft 365",
-        "level": "65%"
+        "level": "60%"
       },
       {
         "name": "Veeam Backup",
-        "level": "50%"
+        "level": "40%"
       },
       {
         "name": "Linux Administration",
         "level": "60%"
+      },
+      {
+        "name": "Windows Administration",
+        "level": "90%"
       },
       {
         "name": "Networking",
@@ -124,7 +128,7 @@
       },
       {
         "name": "Github",
-        "level": "30%"
+        "level": "20%"
       },
       {
         "name": "Zabbix",
