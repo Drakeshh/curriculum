@@ -1,4 +1,4 @@
-* Crear entorn de proves per provar canvis
+* Crear entorn de proves per provar canvis:
 
 Els primers cops que ho iniciem tenim que fer un npm install ja que al github no s'hi queden els arxius necesaris degut al .gitignore
 
@@ -11,7 +11,7 @@ npm stop o ctrl+c al terminal
 
 
 
-* Aplicar canvis
+* Aplicar canvis:
 
 Si hem fet canvis al resumeData.json podem fer un cp de l'arxiu cap al bucket:
 aws s3 cp resumeData.json s3://sprat-curriculum/resumeData.json
