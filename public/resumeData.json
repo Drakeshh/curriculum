@@ -8,9 +8,9 @@
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "sprat0088@gmail.com",
     "address": {
-      "city": "Olot",
-      "state": "Spain",
-      "zip": "17800"
+      "city": "Amsterdam",
+      "state": "Netherlands",
+      "zip": "1022 LA"
     },
     "website": "https://www.sergipratmerin.com/",
     "resumedownload": "http://my.resume.pdf.com",
@@ -54,7 +54,7 @@
       {
         "company": "Costa Brava Mediterranean Foods",
         "title": "System administrator",
-        "years": "June 2021 - Actually",
+        "years": "June 2021 - February 2025",
         "description": "Manage and maintain the integrity, scalability and availability of the company's computer system both at a physical and cloud level. This includes handling tasks related to: networking, virtualization (vSphere), Active Directory, Microsoft 365, backup management (Veeam Backup), Zabbix and documentation."
       },
       {
