@@ -104,11 +104,12 @@
       },
       {
         "name": "Linux Administration",
-        "level": "60%"
+        "level": "75%",
+        "annotation": "With Honors"
       },
       {
         "name": "Windows Administration",
-        "level": "90%"
+        "level": "85%"
       },
       {
         "name": "Networking",
@@ -159,6 +160,12 @@
         "category": "Virtualization",
         "image": "vmware.png",
         "url": "https://www.credly.com/badges/65d4c61a-b831-44cc-b3d2-50108c4d7880/linked_in?t=s8qncv"
+      },
+      {
+        "title": "LPIC-1",
+        "category": "Linux Administration",
+        "image": "lpic1.png",
+        "url": "https://www.credly.com/badges/ff66a123-3b1b-44a6-9274-25a43fccacbf/linked_in?t=t9bxo7"
       }
     ]
   },
