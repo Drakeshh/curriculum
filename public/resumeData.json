@@ -4,13 +4,13 @@
     "occupation": "System Administrator",
     "description": "Welcome to my resume",
     "image": "profile.png",
-    "bio": "I am a system administrator specialized in virtualization with the vSphere platform, Office 365, Active Directory, Veeam Backup and Zabbix. I consider myself an orderly and perfectionist person, I am good at organizing work groups and taking responsibilities.",
+    "bio": "Passionate about continuous learning, infrastructure reliability, and delivering secure and efficient IT operations. Most of my experience lies in hybrid environments, and I’m currently looking to further develop my career in the field of cloud computing, virtualization and Linux administration. I thrive in collaborative team environments and enjoy taking responsibility, always eager to acquire new knowledge.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "sprat0088@gmail.com",
     "address": {
-      "city": "Amsterdam",
+      "city": "Rotterdam",
       "state": "Netherlands",
-      "zip": "1022 LA"
+      "zip": ""
     },
     "website": "https://www.sergipratmerin.com/",
     "resumedownload": "http://my.resume.pdf.com",
@@ -140,12 +140,12 @@
         "level": "75%"
       },
       {
-        "name": "Github",
-        "level": "20%"
+        "name": "ELK",
+        "level": "40%"
       },
       {
         "name": "Zabbix",
-        "level": "40%"
+        "level": "70%"
       }
     ]
   },
