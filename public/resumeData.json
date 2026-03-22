@@ -107,7 +107,7 @@
         "annotation": "With Honors"
       },
       {
-        "name": "Microsoft 365",
+        "name": "Microsoft 365 & Entra ID",
         "level": "60%"
       },
       {
@@ -146,6 +146,10 @@
       {
         "name": "Zabbix",
         "level": "70%"
+      },
+      {
+        "name": "Intune",
+        "level": "75%"
       }
     ]
   },
